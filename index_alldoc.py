@@ -1,4 +1,4 @@
-
+##export XAPIAN_FLUSH_THRESHHOLD=200000; python index_alldoc.py
 import xapian
 import time
 DATA_FILEPATH = "/Users/neesergparajuli/Dropbox/Webtext/Data/wiki-pages-text/"
